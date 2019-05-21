@@ -1,0 +1,21 @@
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
+a {
+  color: black;
+}
+
+
+a:hover {
+  color: black;
+}
+
+
+.small-img {
+  width:100%;
+  max-width: 120px;
+  height: auto;
+}
