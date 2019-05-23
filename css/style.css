@@ -19,3 +19,7 @@ a:hover {
   max-width: 120px;
   height: auto;
 }
+
+body {
+  background-color: #f2f2f2
+}
